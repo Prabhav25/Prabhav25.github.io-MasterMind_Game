@@ -1,3 +1,9 @@
+---
+layout: default
+---
+
+
+
 This game is created in metaverse studio.gometa.io and in order to play this game you have to download the Metaverse - Aurgmented Reality app in your phone and just copy the link (https://mtvrs.io/ToughPlainSulphurbutterfly) or scan the QR code from (https://studio.gometa.io/discover/me/c3d788e1-3695-4ed9-a8dd-027aae576cc7).
 
 So here i am creating a game which containes some questions and if all the questions answered correctly in the given time then you will get a surprise.
